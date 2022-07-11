@@ -1,3 +1,3 @@
 # Capstone Project
-## IBM Data Science SpaceX 
+## IBM Data Science SpaceX Notebooks
 ### Sorted by Weeks
