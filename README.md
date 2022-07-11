@@ -1,3 +1,3 @@
 # Capstone Project
 ## IBM Data Science SpaceX 
-### Sorted in Weeks
+### Sorted by Weeks
